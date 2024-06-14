@@ -19,6 +19,6 @@ This app was build when i did scrimba front-end career path.
 
 Go for a test!
 
-[(https://gameoftenzies1988.netlify.app)]
+(https://gameoftenzies1988.netlify.app)
 
 
